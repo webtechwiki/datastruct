@@ -42,3 +42,4 @@
 - [02-线性离散存储-链表](./note/02-linkedlist.md)
 - [03-栈](./note/03-stack.md)
 - [04-队列](./note/04-queue.md)
+- [05-树](./note/05-tree.md)
