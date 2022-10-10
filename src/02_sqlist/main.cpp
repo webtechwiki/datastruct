@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <sys/malloc.h> // windows中用 #include <malloc.h>
+#include <malloc.h> // windows中用 #include <malloc.h>
 #include <stdlib.h>
 
 // 定义数组结构体
