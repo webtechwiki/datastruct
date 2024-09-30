@@ -28,11 +28,11 @@
 
 接下来，我将持续整理学习笔记，欢迎关注！
 
-## 二、笔记目录
+## 二、C++笔记目录
 
-- [01-序言](./doc/01-prologue.md)
-- [02-线性连续存储-顺序表](./doc/02-sqlist.md)
-- [03-线性离散存储-链表](./doc/03-linkedlist.md)
-- [04-栈](./doc/04-stack.md)
-- [05-队列](./doc/05-queue.md)
-- [06-树](./doc/06-tree.md)
+- [01-序言](./cpp/01-prologue.md)
+- [02-线性连续存储-顺序表](./cpp/02-sqlist.md)
+- [03-线性离散存储-链表](./cpp/03-linkedlist.md)
+- [04-栈](./cpp/04-stack.md)
+- [05-队列](./cpp/05-queue.md)
+- [06-树](./cpp/06-tree.md)
